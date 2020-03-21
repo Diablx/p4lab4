@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP-EFF", "TP-EFF\TP-EFF.csproj", "{0B96AE29-83F0-414F-9BAE-42CD4D448C02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Z4-TPL", "Z4-TPL\Z4-TPL.csproj", "{CD100EED-C927-4BD4-9E76-E2BD6BACAA73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B96AE29-83F0-414F-9BAE-42CD4D448C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B96AE29-83F0-414F-9BAE-42CD4D448C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B96AE29-83F0-414F-9BAE-42CD4D448C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B96AE29-83F0-414F-9BAE-42CD4D448C02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD100EED-C927-4BD4-9E76-E2BD6BACAA73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD100EED-C927-4BD4-9E76-E2BD6BACAA73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD100EED-C927-4BD4-9E76-E2BD6BACAA73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD100EED-C927-4BD4-9E76-E2BD6BACAA73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52E6C40A-9EAA-40F2-8088-E5A2FA12DB89}
+	EndGlobalSection
+EndGlobal
