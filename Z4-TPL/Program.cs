@@ -40,7 +40,7 @@ namespace Z4_TPL
 
             await Task.WhenAny(tasks);
             Console.WriteLine(stopwatch.Elapsed);
-            await Task.WhenAll(google.Download(), ath.Download(), wiki.Download(), yt.Download(), ath2.Download());
+            await Task.WhenAll(tasks);
             Console.WriteLine(stopwatch.Elapsed);
 
             stopwatch.Stop();
